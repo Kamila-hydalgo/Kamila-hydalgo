@@ -69,3 +69,6 @@ Sou uma Brasiliense em transição de carreira, e atualmente estudo Desenvolvime
 <br />
 
 ⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro) e [Wellington Rodrigues](https://github.com/SrTonn)
+  <div>
+  <img src="https://komarev.com/ghpvc/?username=Kamila-hydalgo" alt="profile views" />
+  </div>

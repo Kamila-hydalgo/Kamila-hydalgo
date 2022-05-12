@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=480&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis+(Kamila+Hydalgo);Seja+Bem+Vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis!;Welcome+to+my+World!)](https://git.io/typing-svg)
 <br />
 <img src='kamis-octocat-fundo-transparente.png' width ='400' align="right"/>
-Sou uma Farmacêutica, Brasiliense em transição de carreira, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
+Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está se redescobrindo na tecnologia. A maternidade revolucionou minha vida, me fez rever valores e me impulsionou a realizar essa transição de carreira. Sou movida a desafios e acredito que o crescimento e realização de grandes conquistas só acontecem quando saímos da zona de conforto. Atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
 
 ### **Sobre mim:**
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 👧🏼 Sou Mãe da Sophia</li>
+    <li>- 🔭 Atualmente estudo Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🤔 Meus hobbies são correr 🏃‍♀️ , viajar(sempre que possível) ✈️🗺️ e estudar(inglês, tecnologia, investimentos...)📚</li>
     <li>- 💬 Vamos bater um papo? Tenho paixão em falar de esportes, viagens e investimentos💰</li>
-    <li>- ⚡ Fato interessante: já morei em Caracas(Venezuela) por 2 anos</li>
+    <li>- ⚡ Fato interessante: corri uma Matarona(42km) em 2019!</li>
   </div>
 </div>
 
@@ -50,6 +50,11 @@ Sou uma Farmacêutica, Brasiliense em transição de carreira, e atualmente estu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img title="NodeJS" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
 </div>

@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=480&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis+(Kamila+Hydalgo);Seja+Bem+Vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <br />
-<img src='OctocatKamila.png'height="350px" width ='400' align="right"/>
+<img src='kamis-octocat-fundo-transparente.png'height="380px" width ='400' align="right"/>
 Sou uma Farmacêutica, Brasiliense em transição de carreira, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
 
 ### **Sobre mim:**

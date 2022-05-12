@@ -1,14 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=480&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis+(Kamila+Hydalgo);Seja+Bem+Vindo+(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <br />
-
-Sou uma Brasiliense em transição de carreira, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
-
+<img src='OctocatKamila.png'height="350px" width ='400' align="right"/>
+Sou uma Farmacêutica, Brasiliense em transição de carreira, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
 
 ### **Sobre mim:**
 
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🤔 Meus hobbies são correr 🏃‍♀️ , viajar(sempre que possível) ✈️🗺️ e estudar(inglês, tecnologia, investimentos...)📚</li>
@@ -63,7 +61,6 @@ Sou uma Brasiliense em transição de carreira, e atualmente estudo Desenvolvime
 <div>
   <a href="https://www.linkedin.com/in/kamilahydalgo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kamilahydalgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/kamis_viana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br />

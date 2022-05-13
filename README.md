@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis!;Welcome+to+my+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis!;Welcome+to+my+Hub!)](https://git.io/typing-svg)
 <br />
 <img src='kamis-octocat-fundo-transparente.png' width ='400' align="right"/>
 Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está se redescobrindo na <strong>tecnologia</strong>. A maternidade revolucionou minha vida, me fez rever valores e me impulsionou a realizar essa transição de carreira. Sou movida a desafios, resolver problemas e acredito que o crescimento e realização de grandes conquistas só acontecem quando saímos da zona de conforto. Atualmente estudo <strong>Desenvolvimento Web Full Stack</strong> na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
@@ -7,7 +7,7 @@ Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está s
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 👧🏼 Sou Mãe da Sophia(3 anos)</li>
+    <li>- 👧🏼 Sou Mãe da Sophia</li>
     <li>- 🔭 Atualmente estou estudando <strong>MySQL</strong>, <strong>Docker</strong> e <strong>Node</strong> </li>
     <li>- 🤔 Amo correr 🏃‍♀️ e viajar(conhecer novos lugares e culturas me fascina) ✈️🗺️</li>
     <li>- ⚡ Fato interessante: corri uma Matarona(42km) em 2019!</li>
@@ -18,7 +18,7 @@ Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está s
 ---
 
 <h3 align="center"><strong>Meus contatos</strong></h3>
-<div align="center">
+<div align="center" style="margin-left: 30px" style="display: inline_block">
   <a href="https://www.linkedin.com/in/kamilahydalgo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kamilahydalgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

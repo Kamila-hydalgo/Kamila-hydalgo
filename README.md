@@ -17,7 +17,7 @@ Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está s
 
 ---
 
-<h3 align="center"><strong>Meus contatos</strong></h3>
+<h3><strong>Meus contatos</strong></h3>
 <div style="margin-left: 100px" style="display: flex">
   <a href="https://www.linkedin.com/in/kamilahydalgo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kamilahydalgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

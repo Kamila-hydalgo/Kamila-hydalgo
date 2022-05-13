@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+Eu+sou+a+Kamis!;Welcome+to+my+Hub!)](https://git.io/typing-svg)
 <br />
 <img src='kamis-octocat-fundo-transparente.png' width ='400' align="right"/>
-Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está se redescobrindo na <strong>tecnologia</strong>. A maternidade revolucionou minha vida, me fez rever valores e me impulsionou a realizar essa transição de carreira. Sou movida a desafios, resolver problemas e acredito que o crescimento e realização de grandes conquistas só acontecem quando saímos da zona de conforto. Atualmente estudo <strong>Desenvolvimento Web Full Stack</strong> na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀!
+Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está se redescobrindo na <strong>tecnologia</strong>. A maternidade revolucionou minha vida, me fez rever valores e me impulsionou a realizar essa transição de carreira. Sou movida a desafios, resolver problemas e acredito que o crescimento e realização de grandes conquistas só acontecem quando saímos da zona de conforto. Atualmente estudo <strong>Desenvolvimento Web Full Stack</strong> na <a href="https://betrybe.com">Trybe</a></li> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li> 🚀 e estou perseguindo conhecimento para evoluir na minha carreira como desenvolvedora!
 
 <h2><strong>Um pouco sobre mim</strong></h2>
 

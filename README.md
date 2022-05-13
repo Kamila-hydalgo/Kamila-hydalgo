@@ -11,7 +11,7 @@ Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está s
     <li>- 🔭 Atualmente estou estudando <strong>MySQL</strong>, <strong>Docker</strong> e <strong>Node</strong> </li>
     <li>- 🤔 Amo correr 🏃‍♀️ e viajar(conhecer novos lugares e culturas me fascina) ✈️🗺️</li>
     <li>- ⚡ Fato interessante: corri uma Matarona(42km) em 2019!</li>
-    <li>- 💬 Fique a vontade para entrar em contato comigo!</li>
+    <li>- 💬 Fique a vontade para entrar em contato comigo. Adoro conhecer novas pessoas e trocar idéias!</li>
   </div>
 </div>
 

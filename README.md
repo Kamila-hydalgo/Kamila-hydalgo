@@ -39,6 +39,10 @@ Sou uma Brasiliense, graduada em Farmácia, apaixonada por corrida e que está s
     <a href="https://github.com/Kamila-hydalgo" title="Kamila's profile">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-hydalgo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+    <div>
+      <h4>Observação: As top linguagens descritas acima é somente uma métrica das linguagens utilizadas nos meus códigos públicos e não definem completamente meu nível de experiência e habilidades.
+      </h4>
+    </div>
   <a href="https://github.com/Kamila-hydalgo/Kamila-hydalgo" title="Kamila's profile">
      <img src="https://github.com/Kamila-hydalgo/Kamila-hydalgo/blob/output/github-contribution-grid-snake.svg" alt="snake eating commits">
    <a/>
